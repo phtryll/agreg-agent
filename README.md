@@ -7,7 +7,7 @@ Un brouillon d'agent IA capable de répondre à des questions d’agrégation su
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/agreg-agent.git
+git clone https://github.com/phtryll/agreg-agent.git
 cd agreg-agent
 ```
 
