@@ -1,0 +1,5 @@
+numpy==2.4.0
+pydantic==2.12.5
+sentence_transformers==5.1.1
+unstructured==0.18.21
+ollama
