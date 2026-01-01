@@ -1,6 +1,6 @@
 # agreg-agent
 
-Un brouillon d'agent IA capable de répondre à des questions d’agrégation sur l'évolution phonétique du français.
+A draft AI agent capable of answering agrégation questions on the phonetic evolution of French.
 
 ## Installation
 
