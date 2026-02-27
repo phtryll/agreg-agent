@@ -1,6 +1,6 @@
 # agreg-agent
 
-A draft AI agent capable of answering agrégation questions on the phonetic evolution of French.
+A draft AI agent (not) capable of answering agrégation questions on the phonetic evolution of French.
 
 ## Installation
 
